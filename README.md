@@ -69,4 +69,8 @@
     8. admin can view ordered products
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
 
-6. <b>Deployed on</br> https://marketzon.herokuapp.com/ 
+6. Admin credentials
+    * email: `shivamgolu913@gmail.com`
+    * password: `Sss21112000`
+
+7. <b>Deployed on</br> https://marketzon.herokuapp.com/ 
